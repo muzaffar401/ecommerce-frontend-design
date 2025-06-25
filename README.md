@@ -9,7 +9,7 @@ The landing page was last updated on May 14, 2025, and is designed with a modern
 ---
 
 ## Live Demo
-[Live Demo Here](https://muzamal478.github.io/eCommerce-Landing-Page-Website/)
+[Live Demo Here](https://muzaffar401.github.io/ecommerce-frontend-design/)
 
 ---
 
@@ -322,6 +322,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 For questions or support, contact:
 
-- **Name**: Muzamal Asghar
-- **Email**: muzamalasghar47@gmail.com
-- **Date**: May 14, 2025
+- **Name**: Muzaffar Ahmed
+- **Email**: ma9400667@gmail.com
+- **Date**: May 30, 2025
